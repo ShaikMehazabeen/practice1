@@ -1,0 +1,2 @@
+git:git is the tool which tacks the changes or modifications in our code.
+git-hub:It is the platform or website where we can store the projects(git) online.
